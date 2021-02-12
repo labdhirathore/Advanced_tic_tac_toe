@@ -12,6 +12,8 @@ is provided with an option to Reset or to start a New Game.
 
 
 Screenshot:
+
+
 <img width="796" alt="advanced_ttt" src="https://user-images.githubusercontent.com/61301997/107775395-38aebe80-6d66-11eb-9c24-d550eef86d93.png">
 
 
